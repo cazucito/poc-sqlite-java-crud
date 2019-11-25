@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CrudApp",
+            "request": "launch",
+            "mainClass": "com.cazucito.pocs.sqlitejava.CrudApp",
+            "projectName": "CRUDSQLiteJava"
+        }
+    ]
+}

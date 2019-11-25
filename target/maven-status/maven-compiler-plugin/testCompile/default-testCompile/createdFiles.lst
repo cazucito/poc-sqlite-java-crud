@@ -1,0 +1,4 @@
+com\cazucito\pocs\sqlitejava\m\BookSvcTest.class
+com\cazucito\pocs\sqlitejava\m\data\BookDAOTest.class
+com\cazucito\pocs\sqlitejava\m\data\HandlerDBTest.class
+com\cazucito\pocs\sqlitejava\CrudAppTest.class

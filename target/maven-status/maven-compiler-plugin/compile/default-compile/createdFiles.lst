@@ -1,0 +1,6 @@
+com\cazucito\pocs\sqlitejava\m\BookSvc.class
+com\cazucito\pocs\sqlitejava\CrudApp.class
+com\cazucito\pocs\sqlitejava\m\data\CrudDAO.class
+com\cazucito\pocs\sqlitejava\m\data\HandlerDB.class
+com\cazucito\pocs\sqlitejava\m\data\Book.class
+com\cazucito\pocs\sqlitejava\m\data\BookDAO.class
